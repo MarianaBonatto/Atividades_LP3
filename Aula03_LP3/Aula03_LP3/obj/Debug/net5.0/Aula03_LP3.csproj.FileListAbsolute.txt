@@ -1,0 +1,16 @@
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\bin\Debug\net5.0\Aula03_LP3.exe
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\bin\Debug\net5.0\Aula03_LP3.deps.json
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\bin\Debug\net5.0\Aula03_LP3.runtimeconfig.json
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\bin\Debug\net5.0\Aula03_LP3.runtimeconfig.dev.json
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\bin\Debug\net5.0\Aula03_LP3.dll
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\bin\Debug\net5.0\ref\Aula03_LP3.dll
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\bin\Debug\net5.0\Aula03_LP3.pdb
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\obj\Debug\net5.0\Aula03_LP3.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\obj\Debug\net5.0\Aula03_LP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\obj\Debug\net5.0\Aula03_LP3.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\obj\Debug\net5.0\Aula03_LP3.AssemblyInfo.cs
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\obj\Debug\net5.0\Aula03_LP3.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\obj\Debug\net5.0\Aula03_LP3.dll
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\obj\Debug\net5.0\ref\Aula03_LP3.dll
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\obj\Debug\net5.0\Aula03_LP3.pdb
+C:\Users\carol\source\repos\Aula03_LP3\Aula03_LP3\obj\Debug\net5.0\Aula03_LP3.genruntimeconfig.cache
