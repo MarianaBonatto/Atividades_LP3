@@ -1,0 +1,16 @@
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\bin\Debug\net5.0\Exercicio11.exe
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\bin\Debug\net5.0\Exercicio11.deps.json
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\bin\Debug\net5.0\Exercicio11.runtimeconfig.json
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\bin\Debug\net5.0\Exercicio11.runtimeconfig.dev.json
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\bin\Debug\net5.0\Exercicio11.dll
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\bin\Debug\net5.0\ref\Exercicio11.dll
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\bin\Debug\net5.0\Exercicio11.pdb
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\obj\Debug\net5.0\Exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\obj\Debug\net5.0\Exercicio11.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\obj\Debug\net5.0\Exercicio11.AssemblyInfo.cs
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\obj\Debug\net5.0\Exercicio11.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\obj\Debug\net5.0\Exercicio11.dll
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\obj\Debug\net5.0\ref\Exercicio11.dll
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\obj\Debug\net5.0\Exercicio11.pdb
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\obj\Debug\net5.0\Exercicio11.genruntimeconfig.cache
+C:\Users\carol\source\repos\Exercicio11\Exercicio11\obj\Debug\net5.0\Exercicio11.csproj.AssemblyReference.cache
